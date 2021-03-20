@@ -1,7 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
- <title>CECS105 Spring 2021</title>
+# CECS105 Spring 2021
  </head>
  <body>
  <h1>Hello World!! </h1>
